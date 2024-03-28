@@ -1,4 +1,4 @@
-General
+<b>GENERAL</b>
 
 What is a binary tree
 
