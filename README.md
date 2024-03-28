@@ -1,5 +1,5 @@
 <b>GENERAL</b>
-
+<hr>
 What is a binary tree
 
 What is the difference between a binary tree and a Binary Search Tree
