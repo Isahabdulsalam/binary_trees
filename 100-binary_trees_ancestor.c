@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 
 /**
- * binary_trees_ancestor - func tha finds the lowest common ancestor	
+ * binary_trees_ancestor - func tha finds the lowest common ancestor
  * @first: Pointer to the first node.
  * @second: Pointer to the second node.
  *
