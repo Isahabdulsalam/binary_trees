@@ -34,7 +34,7 @@ void create_tree(avl_t **node, int *array, size_t size, int mode)
 }
 
 /**
- * sorted_array_to_avl - function that creates root node and calls to create_tree
+ * sorted_array_to_avl - function that creates root node and call to create_tree
  *
  * @array: input array of integers
  * @size: size of array
